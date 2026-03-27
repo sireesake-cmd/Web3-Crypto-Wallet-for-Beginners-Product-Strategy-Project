@@ -1,40 +1,75 @@
 # User Personas for Crypto Wallet Product
 
-## Persona 1: The New Investor  
-- **Name:** Sarah  
-- **Age:** 28  
-- **Occupation:** Marketing Specialist  
-- **Tech Savvy:** Moderate  
-- **Goals:** Wants to invest small amounts in crypto as a long-term investment strategy.  
-- **Frustrations:** Overwhelmed by jargon and complicated processes of buying and storing cryptocurrencies.  
-- **Behavior:** Searches for user-friendly platforms and educational resources.  
+#Persona 1: Curious Beginner
+Name: Alex
+Age: 27
+Job: Marketing Associate
+About Alex
+Alex has heard a lot about crypto and wants to try it but finds the whole process confusing.
 
-## Persona 2: The Crypto Enthusiast  
-- **Name:** Jake  
-- **Age:** 34  
-- **Occupation:** Software Engineer  
-- **Tech Savvy:** High  
-- **Goals:** Actively trades cryptocurrencies and looks for the best tools to manage assets efficiently.  
-- **Frustrations:** Concerns about security and transparency of transactions.  
-- **Behavior:** Engages in online forums and follows market trends closely.
+Goals :
+Learn how crypto wallets work
+Safely store crypto
+Avoid making mistakes
 
-## Persona 3: The Casual User  
-- **Name:** Emily  
-- **Age:** 22  
-- **Occupation:** College Student  
-- **Tech Savvy:** High  
-- **Goals:** Interested in using crypto for casual purchases and gifting.  
-- **Frustrations:** Wants a simple interface and fast transactions without a steep learning curve.  
-- **Behavior:** Typically uses mobile apps to make purchases or send money to friends.
+Challenges
+Doesn’t understand seed phrases
+Afraid of losing money by sending crypto incorrectly
+Crypto apps feel too technical
 
-## Persona 4: The Skeptic  
-- **Name:** Robert  
-- **Age:** 45  
-- **Occupation:** Financial Advisor  
-- **Tech Savvy:** Low  
-- **Goals:** Wants to understand crypto but is hesitant to invest.  
-- **Frustrations:** Distrusts the volatility of cryptocurrencies and prefers traditional investments.  
-- **Behavior:** Reads articles and listens to podcasts to educate himself slowly.
+What Alex Needs :
+Simple wallet setup
+Clear instructions during onboarding
+Warnings before sending crypto
 
-## Conclusion  
-Understanding these user personas will guide the design and functionality of the crypto wallet product, ensuring it meets diverse user needs effectively and enhances their overall experience.
+#Persona 2: First-Time Investor
+Name: Priya
+Age: 34
+Job: QA Analyst
+About Priya
+Priya recently bought some crypto on an exchange and now wants a wallet to store it safely.
+
+Goals :
+
+Move crypto from exchange to wallet
+Track balances easily
+Understand transaction fees
+
+Challenges :
+
+Nervous about sending crypto to the wrong address
+Confused by network fees
+Not sure what happens after sending a transaction
+
+What Priya Needs :
+
+Clear send/receive process
+Fee preview before sending
+Transaction confirmation screen
+
+# Persona 3: Security-Focused User
+Name: Michael
+Age: 41
+Job: IT Manager
+
+About Michael
+Michael understands technology but wants strong security when managing crypto.
+
+Goals :
+
+Protect his crypto assets
+Manage private keys safely
+Avoid scams
+
+Challenges :
+
+Many wallets don’t explain security well
+Concerned about phishing or hacking
+Wants better control over security settings
+
+What Michael Needs :
+
+Security tips during setup
+Multi-factor authentication
+Alerts for suspicious activity
+
