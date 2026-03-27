@@ -1,6 +1,6 @@
 # User Personas for Crypto Wallet Product
 
-#Persona 1: Curious Beginner
+#Persona 1: 
 
 Name: Alex
 Age: 27
@@ -49,7 +49,7 @@ Clear send/receive process
 Fee preview before sending
 Transaction confirmation screen
 
-# Persona 3: Security-Focused User
+# Persona 3: 
 
 Name: Michael
 Age: 41
