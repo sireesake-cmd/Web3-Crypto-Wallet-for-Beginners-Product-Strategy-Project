@@ -1,6 +1,7 @@
 # User Personas for Crypto Wallet Product
 
 #Persona 1: Curious Beginner
+
 Name: Alex
 Age: 27
 Job: Marketing Associate
@@ -23,6 +24,7 @@ Clear instructions during onboarding
 Warnings before sending crypto
 
 #Persona 2: First-Time Investor
+
 Name: Priya
 Age: 34
 Job: QA Analyst
@@ -48,6 +50,7 @@ Fee preview before sending
 Transaction confirmation screen
 
 # Persona 3: Security-Focused User
+
 Name: Michael
 Age: 41
 Job: IT Manager
