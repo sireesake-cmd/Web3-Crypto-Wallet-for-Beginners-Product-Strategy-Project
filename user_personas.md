@@ -23,7 +23,7 @@ Simple wallet setup
 Clear instructions during onboarding
 Warnings before sending crypto
 
-#Persona 2: First-Time Investor
+# Persona 2: 
 
 Name: Priya
 Age: 34
