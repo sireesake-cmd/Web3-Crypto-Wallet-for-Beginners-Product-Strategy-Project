@@ -1,3 +1,15 @@
 # Product Vision
 
-The vision for the Web3 Crypto Wallet product is to provide users with a secure, user-friendly, and efficient solution for managing their digital assets in a decentralized ecosystem.
+Enable beginners to safely and confidently participate in the crypto ecosystem through a simplified wallet experience.
+
+Problem
+
+Many new users struggle with:
+- wallet creation
+- seed phrase management
+- transaction errors
+- gas fee confusion
+
+Goal
+
+Reduce onboarding friction and improve transaction success rates for first-time crypto users.
